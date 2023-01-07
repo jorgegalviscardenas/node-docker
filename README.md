@@ -1,4 +1,4 @@
-# Node with Docker nnd Docker Compose
+# Node with Docker and Docker Compose
 Simple Docker configuration to start server with node js.
 
 You need to have installed Docker and Docker compose.
